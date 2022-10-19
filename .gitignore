@@ -19,3 +19,12 @@ lib/*
 **/compile_commands.json
 **/*.cmake
 **/_deps
+
+**/samples
+**/results
+_skbuild
+.vscode/
+
+**/lib
+**.egg-info
+**/__pycache__
